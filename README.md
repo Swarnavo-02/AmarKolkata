@@ -24,8 +24,8 @@ A comprehensive travel guide web application for exploring Kolkata, West Bengal,
 - **South Kolkata**: Ballygunge Cultural, Hindustan Park, Deshapriya Park
 
 ### Food & Cuisine
-- Traditional Bengali dishes (Fish Curry, Luchi-Alur Dom)
-- Street food (Puchka, Kathi Rolls, Jhalmuri)
+- Traditional Bengali dishes
+- Street food 
 - Restaurant recommendations with locations
 
 ### Events & Festivals
