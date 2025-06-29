@@ -12,12 +12,6 @@ A comprehensive travel guide web application for exploring Kolkata, West Bengal,
 - **🎬 Entertainment**: Cinema halls, shopping malls, and cultural venues
 - **📚 Travel Tips**: Local etiquette, emergency contacts, and Bengali phrases
 
-## 🚀 Getting Started
-
-1. **Download** the project files
-2. **Open** `updated2.html` in your web browser
-3. **Start Exploring** Kolkata!
-
 ## 📱 What's Included
 
 ### Places to Visit
@@ -45,17 +39,8 @@ A comprehensive travel guide web application for exploring Kolkata, West Bengal,
 - **Maps**: Google Maps API
 - **Icons**: Lucide Icons, Font Awesome
 
-## 📞 Emergency Contacts
-
-- **Police**: 100
-- **Ambulance**: 102
-- **Fire**: 101
 
 ## 🌐 Browser Support
 
 - Chrome, Firefox, Safari, Edge
 - Mobile browsers
-
----
-
-**Made with ❤️ for Kolkata and its visitors** 
